@@ -1,5 +1,4 @@
 NAME:K.Abhineswar Reddy<br>
-
 Reference no: 212223040084
 
 # Experiment02 Implementation of  combinational logic
